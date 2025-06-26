@@ -1,0 +1,4 @@
+acne
+dry
+normal
+oily
