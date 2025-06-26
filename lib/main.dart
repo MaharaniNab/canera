@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.teal,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: KameraScanPage(cameras: cameras),
-    );
+      // home: Scan(cameras: cameras),
+      home: const ScanPage(),);
   }
 }
